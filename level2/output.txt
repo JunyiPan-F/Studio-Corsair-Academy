@@ -1,13 +1,12 @@
 {
-  "ip": "8.8.8.8",
-  "hostname": "dns.google",
-  "anycast": true,
-  "city": "Mountain View",
-  "region": "California",
+  "ip": "216.164.242.234",
+  "hostname": "216-164-242-234.s1768.c3-0.smt-cbr2.atw-smt.pa.cable.rcncustomer.com",
+  "city": "Bethlehem",
+  "region": "Pennsylvania",
   "country": "US",
-  "loc": "37.4056,-122.0775",
-  "org": "AS15169 Google LLC",
-  "postal": "94043",
-  "timezone": "America/Los_Angeles",
+  "loc": "40.6259,-75.3705",
+  "org": "AS6079 RCN",
+  "postal": "18018",
+  "timezone": "America/New_York",
   "readme": "https://ipinfo.io/missingauth"
 }
